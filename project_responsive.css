@@ -74,7 +74,7 @@
            min-height: 310px;
     }
 }
-@media (max-width:590px){
+@media (max-width:400px){
     body,
     html{
         font-size: 7px;
@@ -99,6 +99,9 @@
     .contact .get-in-touch .card{
            min-height: 254px;
     }
+      .header .navbar-collapse{
+        padding: 1.8rem;
+       }
 }
 
 @media (max-width:390.4px){
