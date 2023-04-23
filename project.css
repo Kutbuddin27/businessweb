@@ -212,7 +212,7 @@ background-color: transparent;
 /*Bannner section*/
 .banner-wrapper{
     margin-top: 8rem;
-    background-image: url('/image/24_Multipages_images/images/banner/banner.webp');
+    background-image: url('banner.webp');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -263,24 +263,24 @@ background-color: transparent;
     height: 100vh;
 }
 .parallax.img1{
-    background-image: url('/image/24_Multipages_images/images/banner/Banner-1.jpg');
+    background-image: url('Banner-1.jpg');
     height: 100%;
 
 }
 .parallax.img2{
-    background-image: url('/image/24_Multipages_images/images/Services/web-designing.webp');
+    background-image: url('web-designing.webp');
     height: 608px;
 }
 .parallax.img3{
-    background-image: url('/image/24_Multipages_images/images/Services/branding.webp');
+    background-image: url('branding.webp');
     height: 608px;
 }
 .parallax.img4{
-    background-image: url('/image/24_Multipages_images/images/Services/advertising.webp');
+    background-image: url('advertising.webp');
     height: 608px;
 }
 .parallax.img5{
-    background-image: url('/image/24_Multipages_images/images/Services/seo.webp');
+    background-image: url('seo.webp');
     height: 608px;
 }
 .main-wrapper{
